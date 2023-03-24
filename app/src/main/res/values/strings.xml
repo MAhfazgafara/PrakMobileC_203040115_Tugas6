@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clothing Registration</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="clothing_name">Clothing Name</string>
+    <string name="production_year">Production Year</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+</resources>
